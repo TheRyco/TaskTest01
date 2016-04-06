@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskTest01</string>
+    <string name="create_task">Create Task</string>
+    <string name="accept_button_label">Accept</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="addTask_titleHint">Title</string>
+    <string name="addTask_notesHint">Notes</string>
+    <string name="show_tasks">Show Tasks</string>
+</resources>
